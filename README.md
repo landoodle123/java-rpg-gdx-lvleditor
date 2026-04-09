@@ -1,0 +1,1 @@
+Level editor for [java-rpg-gdx](https://github.com/landoodle123/java-rpg-gdx), designed for use for developers only. Can be used by third-party devs for custom map creation. Use is simple, run the .MSI on a Windows computer (or Mac or Linux device with some sort of translation layer or emulator) and run it from the start menu
